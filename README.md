@@ -12,7 +12,7 @@ In this section, you can see short summary of the listed projects comprehensivel
 ### Company Finance Analysis
 For this project, I analyzed the sales data of a company, covering information on revenue, profit and various factor related to product sales. The objective of the report is to identify business trends, potential market segment and make strategic recommendations based on the collected data.
 
-The skills showcased in this project are data cleaning, SQL for analysis, dashboard using Power BI. I've also built a simple machine learning model to predict the revenue based on the cost of goods sold (COGS) using Linear Regression Model.
+The skills showcased in this project are data cleaning, SQL for analysis, visualization using Power BI. I've also built a simple machine learning model to predict the revenue based on the cost of goods sold (COGS) using Linear Regression Model.
 
 The data source I used for analyze is from [kaggle](https://www.kaggle.com/datasets/atharvaarya25/financials)
 
