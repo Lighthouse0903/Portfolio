@@ -6,9 +6,6 @@ My name is Hai Dang (Lighthouse). I'm on my way to become a data analyst. I have
 
 In this portfolio, I have included data projects that showcase my data analytics skills. These projects demonstrate my ability to analyze and present data in a clear and appealing way, making it easier for decision makers to understand the insights and take action.
 
-## Projects
-In this section, you can see short summary of the listed projects comprehensively
-
 ### Company Finance Analysis
 For this project, I analyzed the sales data of a company, covering information on revenue, profit and various factor related to product sales. The objective of the report is to identify business trends, potential market segment and make strategic recommendations based on the collected data.
 
